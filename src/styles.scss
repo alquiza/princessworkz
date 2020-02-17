@@ -1,1 +1,23 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+:host{
+  color: #333;
+  box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+html, body {
+  height: 100%;
+  background-color: #aaaaaa;
+  color: rgb(175, 48, 10);
+}
+
+body {
+  margin: 0; 
+  font-family: Roboto, 'Montserrat', sans-serif;
+}
+
+span {
+  flex: 1 1 auto;
+}

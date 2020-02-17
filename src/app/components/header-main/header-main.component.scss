@@ -1,0 +1,11 @@
+h3 {
+  color: firebrick;
+}
+
+a {
+  color: firebrick;
+  &:hover {
+    text-decoration: none;
+    color: goldenrod;
+  }
+}

@@ -1,0 +1,11 @@
+mat-card {
+  margin: 1em auto;
+  width: 32em;
+}
+
+.mat-raised-button {
+  border-radius: 2em;
+  &:hover {
+    text-decoration: none;
+  }
+}
