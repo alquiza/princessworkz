@@ -1,4 +1,4 @@
-# JediKnight
+# JediKnight - an Angular-9 front-end with Postgresql using Django-3 backend.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
